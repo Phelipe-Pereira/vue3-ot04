@@ -14,6 +14,23 @@
       "dom",
       "dom.iterable",
       "scripthost"
-    ]
-  }
+    ],
+    "types": [
+      "@types/node",
+      "@types/eslint",
+      "@types/eslint-scope",
+      "@types/estree",
+      "@types/html-minifier-terser",
+      "@types/json-schema",
+      "@types/minimist",
+      "@types/normalize-package-data",
+      "@types/parse-json"
+    ],
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "**/ThemeSwitcher.vue"
+  ]
 }
