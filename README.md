@@ -66,6 +66,3 @@ src/
 - `npm run build`: Compila o projeto para produção
 - `npm run lint`: Executa o linter
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
